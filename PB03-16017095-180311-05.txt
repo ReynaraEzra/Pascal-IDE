@@ -1,0 +1,25 @@
+NIM/Nama : 16017095/Reynara Ezra Pratama
+Nama file : PB03-16017095-180311-05
+Tanggal : 11 Maret 2018
+Deskripsi: Menjawab pertanyaan mengenai parameter
+
+1.
+a. Parameter input adalah parameter yang digunakan untuk menampung nilai yang akan dijadikan masukan ke dalam suatu fungsi.
+Sebuah fungsi dapat menghasilkan nilai yang berbeda tergantung dari nilai dalam parameter yang dimasukkan pada saat pemanggilan fungsi tersebut.
+b. Parameter output adalah parameter yang digunakan untuk menampung nilai yang akan dijadikan keluaran yang akan dikirimkan ke bagian yang memanggil fungsi tersebut.
+Umumnya parameter ini digunakan untuk fungsi yang tidak memiliki nilai balik (prosedur).
+c. Parameter input/output adalah parameter yang digunakan untuk menampung nilai yang akan dijadikan masukan ke dalam suatu fungsi
+dan menampung nilai keluaran yang akan dikirimkan ke bagian yang memanggil fungsi tersebut.
+Parameter ini bertindak sebagai parameter input sebelum fungsi dijalankan dan sebagai parameter output setelah fungsi dijalankan.
+
+2. 
+Pada soal nomor 1 :fungsi faktorial mempunyai parameter input bernama x bertipe integer yang menampung masukan berupa angka yang akan dicari faktorialnya.
+Pada soal nomor 2 :fungsi turunan mempunyai parameter input bernama x bertipe real yang menampung masukan berupa waktu yang akan dicari kecepatannya.
+Pada soal nomor 3 :fungsi isPalindrom mempunyai parameter input bernama x bertipe string yang menampung masukan berupa huruf yang akan dicari palindrom atau bukan.
+Pada soal nomor 4 :fungsi isPrime mempunyai parameter input bernama x bertipe integer yang menampung masukan berupa angka yang akan dicari berapa banyak bilangan prima yang akan dikeluarkan.
+
+
+3. 
+Variabel lokal adalah variabel yang nilainya hanya berlaku di dalam suatu fungsi. Variabel lokal akan dihapus nilainya setelah fungsi selesai.
+Variabel global adalah variabel yang berlaku di dalam program. Variabel global akan dihapus nilainya setelah program selesai.
+Program akan tetap tercompile meskipun ada variabel lokal dan global yang memiliki nama yang sama.
